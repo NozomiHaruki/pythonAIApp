@@ -1,0 +1,20 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# ログ・秘密情報
+*.log
+.streamlit/secrets.toml
+
+# エディタ・OS
+.vscode/
+.idea/
+Thumbs.db
